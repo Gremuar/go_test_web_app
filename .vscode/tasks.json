@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "air",
+            "command": "air",
+            "args": [
+                "-c",
+                ".air.toml"
+            ],
+            "type": "shell",
+            "isBackground": true
+        }
+    ]
+}
